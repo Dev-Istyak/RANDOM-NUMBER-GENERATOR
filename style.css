@@ -1,0 +1,28 @@
+body{
+    font-style: oblique;
+    text-align: center;
+    background-image: url();
+}
+#mybutton{
+    font-size: 50px;
+    border-radius: 5%;
+    color: brown;
+    background-color: aqua;
+    transition: .5s;
+    cursor: pointer;
+
+}
+#mybutton:hover{
+    background-color: #edb826;
+}
+
+.mylabels{
+   font-size: 80px;
+   border-radius: 50%;
+   color: chartreuse;
+}
+.brand{
+    color: darkslateblue;
+    font-style: italic;
+    font-size: 100px;
+}
